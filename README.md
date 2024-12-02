@@ -20,7 +20,7 @@
 
 ### 1. 프로젝트 문서 및 소스코드 수정사항
 
-#### [DS_Project3_v1.pdf](https://github.com/user-attachments/files/17783955/DS_Project3_v1.pdf)
+#### [DS_Project3_v1.pdf](https://github.com/user-attachments/files/17971596/DS_Project3_v1.pdf)
 
 
 ```
