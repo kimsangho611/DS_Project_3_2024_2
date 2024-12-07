@@ -13,8 +13,8 @@
 ### Notice !! 설계와 실습을 모두 수강하시는 분은 실습 과제제출란에만 제출바랍니다.
 ### Notice !! log.txt의 출력 포맷에서 모든 구분자는 '\t'이 아닌 스페이스바(' ')로 하시면 됩니다.
 ### Notice !! command.txt는 탭('\t')로 구분하시면 됩니다.
-### Notice !! 제안서에 기재된 알고리즘 결과들은 출력 예시일 뿐이며 실제 알고리즘의 결과와 다를 수 있으니 참고바랍니다.
 ### Notice !! 방향성과 가중치가 없다고 가정하는 명령어의 경우 양방향 출력을 가정하시면 됩니다.
+### Notice !! 제안서에 기재된 알고리즘 결과들은 실제 출력 결과들로 다시 기재해두었으니 참고바랍니다. 
 --------------------------
 
 
@@ -22,11 +22,13 @@
 
 ### 1. 프로젝트 문서 및 소스코드 수정사항
 
-#### [DS_Project3_v1.pdf](https://github.com/user-attachments/files/17971596/DS_Project3_v1.pdf)
+#### [DS_Project3_v2.pdf](https://github.com/user-attachments/files/18046570/DS_Project3_v2.pdf)
+
 
 
 ```
 11/16 - ver1 업로드
+12/07 - print format 내 실제 출력 예시로 변경
 ```
 
 ### 2. 자주들어오는 질문 
